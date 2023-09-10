@@ -1,0 +1,85 @@
+{
+  "Омлет": [
+    {
+      "ingradients_name": "Яйцо ",
+      "quantity": " 2 ",
+      "measury": " шт"
+    },
+    {
+      "ingradients_name": "Молоко ",
+      "quantity": " 100 ",
+      "measury": " мл"
+    },
+    {
+      "ingradients_name": "Помидор ",
+      "quantity": " 2 ",
+      "measury": " шт"
+    }
+  ],
+  "Утка по-пекински": [
+    {
+      "ingradients_name": "Утка ",
+      "quantity": " 1 ",
+      "measury": " шт"
+    },
+    {
+      "ingradients_name": "Вода ",
+      "quantity": " 2 ",
+      "measury": " л"
+    },
+    {
+      "ingradients_name": "Мед ",
+      "quantity": " 3 ",
+      "measury": " ст.л"
+    },
+    {
+      "ingradients_name": "Соевый соус ",
+      "quantity": " 60 ",
+      "measury": " мл"
+    }
+  ],
+  "Запеченный картофель": [
+    {
+      "ingradients_name": "Картофель ",
+      "quantity": " 1 ",
+      "measury": " кг"
+    },
+    {
+      "ingradients_name": "Чеснок ",
+      "quantity": " 3 ",
+      "measury": " зубч"
+    },
+    {
+      "ingradients_name": "Сыр гауда ",
+      "quantity": " 100 ",
+      "measury": " г"
+    }
+  ],
+  "Фахитос": [
+    {
+      "ingradients_name": "Говядина ",
+      "quantity": " 500 ",
+      "measury": " г"
+    },
+    {
+      "ingradients_name": "Перец сладкий ",
+      "quantity": " 1 ",
+      "measury": " шт"
+    },
+    {
+      "ingradients_name": "Лаваш ",
+      "quantity": " 2 ",
+      "measury": " шт"
+    },
+    {
+      "ingradients_name": "Винный уксус ",
+      "quantity": " 1 ",
+      "measury": " ст.л"
+    },
+    {
+      "ingradients_name": "Помидор ",
+      "quantity": " 2 ",
+      "measury": " шт"
+    }
+  ]
+}
